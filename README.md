@@ -1,5 +1,5 @@
 # Hackerrank
-Resolución de los ejercicios del sitio www.hackerrank.com
+
 
 <p align="center">
     <a href="https://www.hackerrank.com/carobima">
@@ -17,42 +17,10 @@ Resolución de los ejercicios del sitio www.hackerrank.com
 
 | Day |                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:---------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  0  | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) - [Solution](https://www.hackerrank.com/challenges/js10-hello-world/submissions/code/222304573)                                         |   30   | [Solution]()                |
-|  0  | [Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean)                                                   |   30   | [Solution]()                                 |
-|  1  | [Quartiles](https://www.hackerrank.com/challenges/s10-quartiles)                                                           |   30   | [Solution]()                                       |
-|  1  | [Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range)                                       |   30   | [Solution]()                           |
-|  1  | [Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation)                                         |   30   | [Solution]()                            |
-|  2  | [Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1)                                                       |   10   | [Solution]()                                   |
-|  2  | [More Dice](https://www.hackerrank.com/challenges/s10-mcq-2)                                                               |   10   | [Solution]()                                           |
-|  2  | [Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3)                                              |   10   | [Solution]()                        |
-|  3  | [Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4)                                                 |   10   | [Solution]()                             |
-|  3  | [Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5)                                                  |   10   | [Solution]()                        |
-|  3  | [Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6)                                                         |   10   | [Solution]()                                     |
-|  4  | [Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1)                               |   30   | [Solution]()                     |
-|  4  | [Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2)                              |   30   | [Solution]()                    |
-|  4  | [Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1)                             |   30   | [Solution]()                    |
-|  4  | [Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2)                            |   30   | [Solution]()                   |
-|  5  | [Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1)                                 |   30   | [Solution]()                      |
-|  5  | [Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2)                                |   30   | [Solution]()                     |
-|  5  | [Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1)                                   |   30   | [Solution]()                       |
-|  5  | [Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2)                                  |   30   | [Solution]()                      |
-|  6  | [The Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1)                       |   30   | [Solution]()             |
-|  6  | [The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2)                      |   30   | [Solution]()            |
-|  6  | [The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3)                     |   30   | [Solution]()           |
-|  7  | [Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient)             |   30   | [Solution]()         |
-|  7  | [Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient) |   30   | [Solution]() |
-|  8  | [Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line)                     |   30   | [Solution]()              |
-|  8  | [Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7)                                      |   30   | [Solution]()              |
-|  9  | [Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression)                         |   30   | [Solution]()                  |
-
-# Java
-|        Subdomain        |                                              Challenge                                                   |             Points          |                                               Solution                                                   |
-|:-----------------------:|:--------------------------------------------------------------------------------------------------------:|:--------------------------:|:--------------------------------------------------------------------------------------------------------:|
-|    Basic Programming    | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)                                   |                1           | [Solution](https://www.hackerrank.com/challenges/js10-hello-world/submissions/code/222304573)               |
-|    Basic Programming    | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)                               |               10            | [Solution](https://www.hackerrank.com/challenges/simple-array-sum/submissions/code/57112851)             |
-|    Basic Programming    | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)                       |               10            | [Solution](https://www.hackerrank.com/challenges/compare-the-triplets/submissions/code/53031974)         |
-|    Basic Programming    | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)                                   |               10            | [Solution](https://www.hackerrank.com/challenges/a-very-big-sum/submissions/code/50280302)               |
-
+|  0  | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)                                     |   1   | [Solution](https://github.com/CaroBima/Hackerrank/blob/main/JavaScript/10DaysofJavascript/Day%201%20-%20Arithmetic%20Operators.js)                |
+|  0  | [Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem)                                              |   1   | [Solution](https://github.com/CaroBima/Hackerrank/tree/main/JavaScript/10%20Days%20of%20Javascript)                                 |
+|  1  | [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)                          |   30   | [Solution]()                                       |
+|  1  | [Day 1: Functions](https://www.hackerrank.com/challenges/js10-function/problem)                                       |   30   | [Solution]()                           |
 
 
 
@@ -127,18 +95,6 @@ Resolución de los ejercicios del sitio www.hackerrank.com
 |           Advanced          | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256)                                          |                 30            | [Solution]()|
 
 
-# Python
-
-|        Subdomain        |                                              Challenge                                                   |             Points          |                                               Solution                                                   |
-|:-----------------------:|:--------------------------------------------------------------------------------------------------------:|:--------------------------:|:--------------------------------------------------------------------------------------------------------:|
-|       Introduction      | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world)                  |              5              | [Solution](https://www.hackerrank.com/challenges/py-hello-world/submissions/code/54635129)               |
-|       Introduction      | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else)                                       |             10              | [Solution](https://www.hackerrank.com/challenges/py-if-else/submissions/code/54663755)                   |
-|       Introduction      | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators)                |             10              | [Solution](https://www.hackerrank.com/challenges/python-arithmetic-operators/submissions/code/55084244)  |
-|         String          | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name)                               |             10              | [Solution](https://www.hackerrank.com/challenges/whats-your-name/submissions/code/55075292)              |
 
 
-# SQL
 
-|        Subdomain        |                                              Challenge                                                   |             Points          |                                               Solution                                                   |
-|:-----------------------:|:--------------------------------------------------------------------------------------------------------:|:--------------------------:|:--------------------------------------------------------------------------------------------------------:|
-|      Basic Select       | [Select All](https://www.hackerrank.com/challenges/select-all-sql)                                       |             10              | [Solution](https://www.hackerrank.com/challenges/select-all-sql/submissions/database/51846743)           |
