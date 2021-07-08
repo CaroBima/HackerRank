@@ -9,7 +9,7 @@
 
 * [10 Days of Javascript](#10-days-of-javascript)
 * [Java](#java)
-* [30 Days of Code](#30-days-of-code)
+* [Problem Solving](#problem-solving)
 
 
 
@@ -35,5 +35,9 @@
 
 
 
+# Problem Solving
 
+|        Subdomain            |                                            Challenge                                                   |             Points            |                                             Solution                                                   |
+|:---------------------------:|:----------------------------------------------------------------------------------------------------:|:------------------------------:|:------------------------------------------------------------------------------------------------------:|
+|        Warmup       | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)                              |                1              | [Solution](https://www.hackerrank.com/challenges/solve-me-first/submissions/code/222678143)            |
 
