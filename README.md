@@ -19,8 +19,9 @@
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:---------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  0  | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)                                     |   10   | [Solution](https://github.com/CaroBima/Hackerrank/blob/main/JavaScript/10DaysofJavascript/Day%201%20-%20Arithmetic%20Operators.js)                |
 |  0  | [Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem)                                              |   10   | [Solution](https://github.com/CaroBima/Hackerrank/tree/main/JavaScript/10%20Days%20of%20Javascript)                                 |
-|  1  | [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)                          |   30   | [Solution]()                                       |
-|  1  | [Day 1: Functions](https://www.hackerrank.com/challenges/js10-function/problem)                                       |   30   | [Solution]()                           |
+|  1  | [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)                          |   10   | [Solution](https://github.com/CaroBima/Hackerrank/blob/main/JavaScript/10DaysofJavascript/Day%201%20-%20Arithmetic%20Operators.js)                                  |
+|  1  | [Day 1: Functions](https://www.hackerrank.com/challenges/js10-function/problem)                                       |   10   | [Solution](https://github.com/CaroBima/Hackerrank/blob/main/JavaScript/10DaysofJavascript/Day%201%20-%20Functions.js)     |
+|  1  | [Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem)                                       |   10   | [Solution](https://github.com/CaroBima/Hackerrank/blob/main/JavaScript/10DaysofJavascript/Day%201%20-%20Functions.js)     |
 
 
 
