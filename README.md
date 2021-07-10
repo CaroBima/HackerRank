@@ -32,6 +32,8 @@
 |         Introduction        | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                              |                3              | [Solution](https://www.hackerrank.com/challenges/welcome-to-java/submissions/code/208361055)            |
 |         Introduction        | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)               |                5              | [Solution](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/submissions/code/208364926)    |
 |         Introduction        | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else)                                     |               10              | [Solution](https://www.hackerrank.com/challenges/java-if-else/submissions/code/213387633)               |
+|         Introduction        | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)                                     |               10              | [Solution](https://www.hackerrank.com/challenges/java-stdin-stdout/submissions/code/213386817)               |
+|         Introduction        | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)                                     |               10              | [Solution](https://www.hackerrank.com/challenges/java-loops-i/submissions/code/213471884)               |
 
 
 
