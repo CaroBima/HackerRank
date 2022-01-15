@@ -1,11 +1,12 @@
-# Hackerrank
-
-
 <p align="center">
     <a href="https://www.hackerrank.com/carobima">
-      <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+      <img height=100 src="https://camo.githubusercontent.com/49e713e1463692beaff7b552eb60511454485659f6131286eeab9db84e91840a/68747470733a2f2f69302e77702e636f6d2f6772616473696e67616d65732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30352f3835363737315f3636383232343035333139373834315f313934333639393030395f6f2e706e67">
     </a>
 </p>
+
+
+## Resolución de los ejercicios de Hackerrank / Solutions to Hackerrank practice problems 
+
 
 * [10 Days of Javascript](#10-days-of-javascript)
 * [Java](#java)
