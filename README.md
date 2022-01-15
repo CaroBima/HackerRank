@@ -34,7 +34,7 @@
 |         Introduction        | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else)                                     |               10              | [Solution](https://www.hackerrank.com/challenges/java-if-else/submissions/code/213387633)               |
 |         Introduction        | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)                                     |               10              | [Solution](https://www.hackerrank.com/challenges/java-stdin-stdout/submissions/code/213386817)               |
 |         Introduction        | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)                                     |               10              | [Solution](https://www.hackerrank.com/challenges/java-loops-i/submissions/code/213471884)               |
-
+|         Introduction        | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)                                     |               10              | [Solution](https://www.hackerrank.com/challenges/java-output-formatting/submissions/code/251765974)               |
 
 
 # Problem Solving
